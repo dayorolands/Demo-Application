@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bulls Rent App</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="hello_there_welcome_back">Hello there, Welcome Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forget_password">FORGET PASSWORD?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+    <string name="emailAdd">Email</string>
+<!--    <string name="usernameHint">Username</string>-->
+    <string name="full_name_sign_up">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="welcome_string">Sign up to start your new Journey</string>
+    <string name="welcome">Welcome</string>
+    <string name="go">GO</string>
+    <!--    <string name="passwordHint">Password</string>-->
+</resources>
