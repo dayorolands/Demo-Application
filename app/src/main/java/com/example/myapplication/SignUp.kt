@@ -17,8 +17,8 @@ class SignUp : AppCompatActivity() {
     @RequiresApi(Build.VERSION_CODES.R)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //        Disable the Status bar for targetSdkVersion 29 <<<
-//        window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
+        //Disable the Status bar for targetSdkVersion 29 <<<
+        //window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
         //Disable the status bar for targetSdkVersion 30 >>>>>>
         window.decorView.windowInsetsController!!.hide(android.view.WindowInsets.Type.statusBars())
         setContentView(R.layout.activity_sign_up)
